@@ -12,6 +12,6 @@ Universal Design for Learning, and experiential learning.
 Claude Code · Git · Python · JavaScript · PHP/MySQL · Adobe Creative Suite
 
 ### 🔗 Elsewhere
-[LinkedIn](https://www.linkedin.com/in/jhendersonart/) · [Art Portfolio](https://jhenderson.art/)
+[LinkedIn](https://www.linkedin.com/in/jhendersoncreate/) · [Art Portfolio](https://jhenderson.art/)
 
 <sub>Personal account. Views are my own and do not represent the U.S. Army or DoW.</sub>
