@@ -6,7 +6,7 @@ context-engineered learning tools grounded in learning science: ADDIE,
 Universal Design for Learning, and experiential learning.
 
 ### 🔧 Current work
-- **FireBot**: AI tutor for middle-school chemistry with adaptive feedback and safety guardrails
+- **FireBot**: AI tutor for middle-school chemistry with adaptive feedback and safety guardrails [Try it](https://poe.com/FireBot_Henderson)
 
 ### 🧰 Tools
 Claude Code · Git · Python · JavaScript · PHP/MySQL · Adobe Creative Suite
