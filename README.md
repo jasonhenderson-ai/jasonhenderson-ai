@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jason Henderson 👋
 
-<!--
-**jasonhenderson-ai/jasonhenderson-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Instructional designer and AI-in-education graduate student (UTEP) with 20+ years
+in programming, multimedia learning, and visual design. I build AI agents and
+context-engineered learning tools grounded in learning science: ADDIE,
+Universal Design for Learning, and experiential learning.
 
-Here are some ideas to get you started:
+### 🔧 Current work
+- **FireBot**: AI tutor for middle-school chemistry with adaptive feedback and safety guardrails
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools
+Claude Code · Git · Python · JavaScript · PHP/MySQL · Adobe Creative Suite
+
+### 🔗 Elsewhere
+[LinkedIn](https://www.linkedin.com/in/jhendersonart/) · [Art Portfolio](https://jhenderson.art/)
+
+<sub>Personal account. Views are my own and do not represent the U.S. Army or DoW.</sub>
