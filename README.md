@@ -9,7 +9,7 @@ Universal Design for Learning, and experiential learning.
 - **FireBot**: AI tutor for middle-school chemistry with adaptive feedback and safety guardrails [Try it](https://poe.com/FireBot_Henderson)
 
 ### 🧰 Tools
-Claude Code · Git · Python · JavaScript · PHP/MySQL · Adobe Creative Suite
+Claude Code · VS Code · Git · Python · JavaScript · PHP/MySQL · Adobe Creative Suite
 
 ### 🔗 Elsewhere
 [LinkedIn](https://www.linkedin.com/in/jhendersoncreate/) · [Art Portfolio](https://jhenderson.art/)
